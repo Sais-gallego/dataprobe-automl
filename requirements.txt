@@ -1,0 +1,5 @@
+# Core requirements
+# Pure standard library for core profiling & SGD baselines
+# Optional accelerated scientific computing & advanced classifiers:
+numpy>=1.24.0
+scikit-learn>=1.3.0
